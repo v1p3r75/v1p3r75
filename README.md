@@ -35,7 +35,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/></a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </p>
-## <p align="center">🔥 &nbsp; Github Statistics</p>
+##<p align="center">🔥 &nbsp; Github Statistics</p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v1p3r75&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="v1p3r75" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1p3r75&langs_count=10&theme=radical" alt="v1p3r75" /></p>
