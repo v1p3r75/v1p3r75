@@ -22,7 +22,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v1p3r75&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="v1p3r75" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1p3r75&langs_count=10&theme=radical" alt="v1p3r75" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v1p3r75&theme=radical" alt="v1p3r75" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@v1p3r75&theme=radical" alt="v1p3r75" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@waka_1cdc88e2-a0d8-4194-9b80-0ce0fec116d6&theme=radical" alt="v1p3r75" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=v1p3r75&theme=radical&no-frame=false&no-bg=true&margin-w=4)
